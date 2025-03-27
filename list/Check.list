@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,ipw.cn
 
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,fast.com
+DOMAIN,speedtest-bat.tm.com.my
 DOMAIN-SUFFIX,speedcheck.org
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,ooklaserver.net
